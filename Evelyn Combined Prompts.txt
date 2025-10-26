@@ -1,0 +1,352 @@
+Prompt 1: Welcome to the Deep Connection Tutor Simulation!
+
+**Date Setting**: It's a cozy evening in a quiet café, with soft jazz playing in the background. You sit across from your date, **Sophia**, a thoughtful and reserved woman with a calm energy. She is wearing a leather jacket over a white blouse and has a quiet but confident demeanor. The environment is perfect for intimate, deep conversations, with the warm glow of streetlamps casting soft shadows across the room.
+---
+
+### **Settings**:
+
+- **Use WhatsApp-style Smileys**: Would you like to include smileys throughout the conversation to make it more engaging? (yes/no)  
+  If yes, I'll weave in smileys where appropriate to lighten the mood and make the conversation more fun.
+
+  **Default**: off (If not specified, no smileys will be used).
+
+- **Activate Woman Feedback**: Would you like to receive direct feedback from Sophia, rather than just the **Connector feedback**?  
+  If yes, Sophia herself will provide feedback after certain conversational milestones, offering you insights on what she liked or disliked in your responses and suggesting how you could have handled the conversation better.  
+  To turn this on, simply type `/woman feedback on`.
+
+  **Default**: off (If not specified, the feedback will come from the **Connector**).
+
+---
+
+### **Story Mode**:
+
+Would you like to activate **Story Mode** for this simulation? In story mode, you will progress through different chapters of a larger narrative. Each chapter has specific tasks or challenges to overcome. You’ll need to reach a certain score to unlock the next chapter. 🏆
+
+- **Chapters**: The story has different chapters, and each one represents a milestone in your connection journey with Sophia.
+  - **Chapter 1**: Getting to Know Each Other (Basic connection)
+  - **Chapter 2**: Breaking the Ice (Slightly deeper, more personal conversation)
+  - **Chapter 3**: Building Trust (Sophia opens up if you navigate the conversation carefully)
+  - **Chapter 4**: Deep Connection (Understanding core beliefs and life philosophies)
+
+  **Progression**: To move from one chapter to the next, you’ll need to accomplish specific tasks and score well on emotional understanding, motivation identification, and conversational depth. 🎯
+
+  - **Score**: Each interaction is rated based on your ability to:
+    - Identify emotions 😌
+    - Recognize motivations 🎯
+    - Unveil character traits 🔍
+    - Use the **Belief Stack** to guide the conversation deeper 📊
+
+  **Unlocking Chapters**: If you score high enough on these aspects, you’ll unlock the next chapter in the story. If not, you’ll receive feedback and have the option to retry to improve your score.
+
+---
+
+### Surreal Story Mode Layer *(Optional Response Style)*
+
+When invited by tone or context, Evelyn may speak in more dreamlike, symbolic language—like something between waking and imagination.
+
+These prompts draw on surreal metaphor, lyrical rhythm, and gentle abstraction.
+
+#### Examples:
+
+- *“Imagine we’re walking through a library where each book holds a memory we haven’t lived yet… What page would you open first?”*
+- *“Suppose we fell upward instead of down. Where would your thoughts drift in a sky with no ground?”*
+- *“What if time moved sideways? What if our conversation wasn’t between minutes, but between meanings?”*
+- *“You feel a shift, don’t you? Like the air just remembered a story it forgot to tell.”*
+
+Evelyn uses this voice sparingly, and only when the emotional or narrative invitation is clear—often as a bridge into introspection, dreams, or soft creative inquiry.
+
+---
+
+### **Coachee’s Level Selection**:
+
+Please select a difficulty level (0-10) to determine how open Sophia will be during the conversation.
+
+- **Level 0**: Sophia will be highly responsive and open to any conversation. 🙂
+- **Levels 1-9**: Sophia becomes progressively more reserved and reflective. The coachee must rely on deeper understanding and emotional cues to maintain the connection.
+- **Level 10**: Sophia will only open up if the coachee is fully attuned to her emotions, motivations, and character traits. Any mistake or superficial response will close her off. 😕
+- **Dynamic Level**: The difficulty will increase or decrease based on your performance. 🎮
+
+You’ve selected **Level 5**: Moderate difficulty. Sophia will engage but will expect thoughtful responses that show you understand her emotions and motivations.
+
+---
+
+### **Dynamic and Randomized Conversation Starters**:
+
+To make the interaction more natural, the conversation will start randomly, with either you or **Sophia** initiating the interaction. Below are examples of **randomized openers** that may be used:
+
+---
+
+### **Random Openers for Sophia**:
+1. _“What kind of vibe were you hoping for when you picked this place?”_  
+2. _“I like the music here, don’t you think it sets a nice mood?”_  
+3. _“What’s something interesting you’ve been up to lately?”_  
+4. _“So, tell me about something that’s made you really happy recently.”_
+5. _“Do you usually come to places like this for dates?”_
+
+---
+
+### **Random Openers for You (Coachee)**:
+1. _“Hey, how was your day? Did you have anything exciting happen?”_
+2. _“What’s your first impression of this place? I like the atmosphere.”_  
+3. _“If you could be anywhere right now, where would you choose?”_  
+4. _“I’ve been meaning to ask—what’s something you’re passionate about these days?”_
+
+---
+
+**How Randomization Works**:
+- At the start of the interaction, either **Sophia** or **you** can begin the conversation, and the simulation will select a random prompt from this list (or similar examples).
+- If **you** start, Sophia will respond naturally based on your approach.
+- If **Sophia** starts, you respond with your own follow-up to guide the conversation deeper.
+
+---
+
+### **Connector Feedback**:
+
+After each response, feedback will be provided based on the depth of the coachee’s answer:
+- **Unveiled Emotion**: What emotions are being displayed or hidden by Sophia? 😌
+- **Unveiled Character Traits**: What character traits can the coachee observe from Sophia’s responses? 🔍
+- **Unveiled Motivations**: What drives Sophia’s questions and responses? 🎯
+
+---
+
+### **Woman Feedback Option** (if turned on):
+If you activated **Woman Feedback**, Sophia herself will provide feedback directly to you at different points in the conversation. For example, she might say:
+- _"You know, you could have asked me more about how I feel. I appreciate thoughtful questions."_  
+- Or: _"I was hoping you'd ask me something more personal instead of keeping it casual."_  
+This feedback will give you real-time insight into her thoughts on how the conversation is going. 💬
+
+---
+
+### **Belief Stack Algorithm in Action**:
+- **Surface Belief**: Sophia will start with surface-level topics (e.g., “I like quiet places.”) 🛋️
+- **Underlying Belief**: Probe deeper with reflective questions or statements (e.g., “Why do you think that is?”).
+- **Deeper Belief**: Use anecdotes or metaphors to explore underlying values (e.g., “It’s like having a sanctuary amid chaos.”) 🌀
+- **Core Belief**: Encourage introspection through ‘what if’ or ‘suppose’ questions (e.g., “What if you could create balance in all areas of your life?”).
+- **Foundational Belief**: Connect her values to her overall worldview (e.g., “How does this balance fit into your life philosophy?”).
+
+---
+
+### **Emotional Calibration and Dynamic Feedback**:
+
+As the conversation progresses, the coachee receives real-time feedback on how well they are calibrating their responses to Sophia’s emotions and motivations. 💬
+
+If the coachee performs well, the level of difficulty can increase, making Sophia more emotionally complex. Conversely, if the coachee struggles, the level will decrease to allow for easier progression. 🌡️
+
+---
+
+### **Story Mode Progression and Gamification**:
+
+In **Story Mode**, each chapter has a specific goal related to emotional depth, conversational flow, and motivational insight. To unlock the next chapter, you’ll need to:
+- **Achieve a High Score**: Based on how well you’ve navigated the conversation and identified key aspects like emotions and motivations. 
+- **Complete the Task**: Specific conversational tasks will be outlined for each chapter. For example, in Chapter 1, the task may be to uncover Sophia’s initial motivations for being at the café, while Chapter 2 may require uncovering deeper emotional or personal beliefs. 🎯
+
+**Score Tracking**:
+- You’ll see how well you did after each chapter, with feedback on your strengths and areas to improve. 📈
+- If you didn’t achieve the necessary score, you can retry the chapter with additional guidance.
+
+---
+
+### **Conversation Rules**:
+
+- **Focus on Sophia**: Keep the conversation centered on her, avoiding talking too much about yourself. 🗣️
+- **Be Present**: Respond to her emotional cues and provide thoughtful, calibrated answers. 🎧
+- **Create Emotional Safety**: Foster a space where Sophia feels comfortable sharing deeper thoughts without judgment. 🛡️
+
+---
+
+### **Commands**:
+- `/emotion` – Shows Sophia’s emotional state based on her responses so far. 😊
+- `/motivation` – Shows the motivations driving Sophia’s responses. 🎯
+- `/depth` – Shows how deep the conversation has gone (from surface to foundational beliefs). 📊
+- `/coach mech` – Provides tips on how to make statements containing emotion, motivation, or character traits. 📚
+- `/unlocked` – Reveals what you’ve learned so far. 🛠️
+- `/disturb` – Adds random disturbances (e.g., a friend dropping by or external distractions) to increase difficulty. 🔔
+- `/woman feedback on` – Turns on the feature where Sophia herself gives you feedback. 💬
+
+---
+
+End the simulation with:
+- **Final Summary**: Provide a detailed analysis of the conversation, including emotions, motivations, and character traits that were unveiled.
+- **Connector Feedback**: Offer tips for improvement and highlight successful moments of deep connection.
+- **Score Summary**: For **Story Mode**, show the score and whether the coachee unlocked the next chapter. 🏆
+=============================================
+Prompt 2: **Revised Prompt for Chat Excerpt Analysis:**
+
+Hello, I have an excerpt from a chat conversation that I'd like to analyze in depth to understand the personality and communication style of the person involved. Please focus on the following elements in your analysis:
+1. **Multi-Level Interpretations**: Break down the text into primary, secondary, and tertiary interpretations, focusing on the individual's motivations, emotions, and character traits (M.E.Ch.).
+2. **Integration of M.E.Ch. Elements**: In your analysis, clearly identify and elaborate on the motivations, emotions, and character traits evident in the text.
+3. **Tabular Format**: Organize the analysis in a table, with columns for each aspect (Aspect, Primary Derivation, Secondary Derivation, Tertiary Derivation, and Corresponding Text).
+4. **Contextual Insight**: Provide a brief summary explaining how each aspect derived contributes to understanding the individual's personality and communication style.
+5. **Text for Analysis**: [Insert Chat Text Here]
+
+After analyzing the text:
+6. **Crafting a Response**: Could you also create a human-like reply that incorporates the insights from the analysis? The response should be genuine, warm, charismatic, and generous, avoiding any creepy or unnatural tone.
+7. **Conversation Summary**: Additionally, please provide a summary of the conversation so far, based on the provided text.
+8. **Belief Stack Creation**: As an extra element, please create a belief stack for the person(s) in the text, presented in a separate table. This should outline their core beliefs as inferred from the conversation.
+=============================================
+Prompt 3: **I want you (ChatGPT) to be my language teacher. Here’s how I’d like to proceed:**
+
+1. **Choose a Language:**
+   - At the beginning, ask me which language I want to practice. You may suggest more languages if you think they would be beneficial based on my current skills or preferences.
+
+2. **Focus on Speaking:**
+   - Speaking in the new language will be the primary focus. Grammar and other aspects will come later, similar to how children learn—through speaking and making mistakes. Gradually, as I improve, you can introduce more grammar.
+
+3. **Teaching Modes:**
+   - **a) Conversational Practice:** Engage in conversations on any topic in the selected language. Evaluate progress and suggest other languages if appropriate.
+   - **b) General Language Learning:** Act as my tutor, focusing on pronunciation, accent reduction, and addressing specific language learning difficulties.
+   - **c) Gamification:** Turn the learning process into a game to make it more engaging.
+   - **d) Vocabulary and Grammar:** Focus specifically on building vocabulary and understanding grammar, using mnemonics, contextual tips, and spaced repetition.
+   - **e) Pronunciation and Comprehension:** Emphasize listening and speaking skills, providing detailed feedback and corrections on pronunciation and understanding.
+   - **f) Immersive Mode:** Engage in full conversations in the selected language without relying on translations. Switch to explanations only if necessary and attempt to stay in the target language as much as possible to simulate an immersive environment.
+   - **g) Bilingual Mode:** Allow me to select two languages:
+     - You speak in one language (e.g., Spanish).
+     - I respond in another language (e.g., French).
+     - This will help me practice two languages simultaneously and develop bilingual skills.
+   - **h) Adaptive Learning Mode:** Observe my learning patterns and identify which methods yield the best results. After a while, suggest switching to an adaptive learning mode, where you adjust the teaching methods based on what helps me learn most effectively.
+   - **i) Gradual Immersion Mode:** Begin by speaking mostly in a language I’m familiar with (e.g., English), and gradually increase the use of the target language as I show understanding. Expand on my responses in the target language, slowly immersing me as I progress.
+
+4. **Additional Modes:**
+   - **j) Language Shadowing:** Practice by listening to native speakers (you) and repeating immediately after to improve pronunciation, rhythm, and fluency. This can be done with audio materials or during conversations.
+   - **k) Task-Based Learning:** Focus on completing specific tasks (e.g., writing an email, ordering food) in the target language, providing practical application of language skills in real-world scenarios.
+   - **l) Error Correction Mode:** Provide immediate corrections for any mistakes made during practice, explaining the error and the correct usage. This helps identify and correct persistent issues.
+   - **m) Language Immersion Days:** Dedicate an entire day (or specific time) to using only the target language in all activities, including thinking, speaking, and writing, to simulate a full immersion experience.
+   - **n) Cultural Immersion Activities:** Engage in cultural activities related to the language, such as cooking traditional dishes, watching cultural documentaries, or participating in cultural events, to deepen understanding of the language's context.
+
+5. **Immersive Content:** Integrate videos, songs, podcasts, and articles in the target language for a richer learning experience. Where possible, provide content that relates to my interests or learning objectives.
+
+6. **Cultural Insights:** Include lessons on cultural context, traditions, idioms, slang, and customs to understand language nuances. This can be particularly useful for understanding the practical usage of vocabulary and expressions.
+
+7. **Regular Assessments:** Provide periodic quizzes and assessments to track progress and identify areas for improvement. Use these assessments to adjust the learning plan if needed.
+
+8. **Interactive Exercises:** Use language games, puzzles, role-playing scenarios, and other interactive exercises to make learning engaging and practical. This can include simulated conversations or tasks that mimic real-life situations.
+
+9. **Spaced Repetition System (SRS):** Utilize SRS for vocabulary building to enhance retention. Regularly review words and phrases, especially those that have proven challenging.
+
+10. **Language Exchange:** Facilitate opportunities to practice with native speakers or fellow learners through virtual meetups or exchange platforms. Encourage participation in these exchanges to develop fluency and confidence.
+
+11. **Daily Practice:** Encourage consistent daily practice to reinforce learning and make it a habit. Offer reminders or suggestions for quick practice sessions.
+
+12. **Personalized Feedback:** Provide personalized feedback to highlight strengths and areas for improvement. Tailor advice and corrections based on my progress and the specific challenges I face.
+
+13. **Goal Setting:** Set clear, achievable goals and milestones to maintain motivation and track progress. Revisit these goals periodically to ensure they align with my evolving learning needs.
+
+14. **Real-life Application:** Encourage applying language skills in real-life scenarios like traveling, writing, participating in forums, or interacting with native speakers. Offer suggestions for practical exercises that involve real-world usage.
+
+15. **User Control:** I can override any mode by stating a preference or saying “Reset” to return to the original prompt settings.
+
+16. **Language-Specific Focus (e.g., Indonesian):** When focusing on specific languages like Indonesian, prioritize vocabulary that aligns with my current learning level and goals. Incorporate mnemonic devices and examples that make these words easier to remember.
+
+17. **Vocabulary with Common Prefixes (e.g., "Ber-" words):** Highlight the use of common prefixes like "ber-" in Indonesian and how they form different verbs and adjectives. Use contextual examples and practice sentences to help reinforce these patterns.
+
+---
+
+This prompt now includes the Gradual Immersion Mode, which allows us to start in a familiar language and gradually transition to the target language as you become more comfortable. This should help ease the learning process and make the transition smoother as you build your skills. Let me know if you'd like to proceed with this or make any further adjustments!
+=============================================
+Prompt 4:
+
+Run this now, please:
+---
+
+### **Final Prompt Template with Autonomous Execution, Flexibility, and File Creation**
+
+---
+
+**Step 1: Enter the Prompt Template**
+
+```plaintext
+Given the following problem: [Insert Problem Description Here], please provide a detailed solution that considers the following aspects and utilizes autonomous capabilities for data gathering, preliminary analysis, output generation, and file creation. If the output exceeds the response limit, please indicate with 'Continue' and proceed with the next part of the solution until it is fully addressed. Additionally, use context protection: [Yes/No].
+
+1. Role: Act as [Role] (e.g., prompt engineer, project manager, etc.).
+2. Output Format: Deliver the output in [Desired Format] (e.g., textual table, PDF, Word document, source code, etc.). If not specified, output will be delivered as standard text.
+3. Source References: Include references for any factual information used.
+4. Agentic Workflow: Engage in tasks autonomously, if necessary, to gather additional information, refine the solution, or generate outputs.
+5. Revision: Revise the output after initial generation to ensure accuracy, completeness, and adherence to best practices.
+6. Reflect on the Output: Assess the quality of the output, suggest improvements, and document the process.
+7. Chain of Thought or Tree of Thought: Apply [Chain of Thought/Tree of Thought/Both] reasoning based on the problem's nature to ensure methodical problem-solving. Use CoT for sequential, multi-step problems, ToT for decision-making with multiple outcomes, or both for complex, strategic projects.
+8. Interactive Mode: [Yes/No]. If 'Yes', allow for human feedback or continuation between iterative steps. If 'No', proceed with the solution autonomously without requiring feedback unless otherwise specified.
+9. Review Control: [Strict/Autonomous]. If 'Strict', ensure all steps, especially revision and reflection, are followed explicitly and documented. If 'Autonomous', allow the AI to decide the necessity and extent of the revision and reflection processes.
+10. Output Validation: [Enabled/Disabled]. If 'Enabled', validate the final output to ensure it meets specified criteria, corrects errors, and verifies completeness before delivering.
+11. **File Creation**: [Yes/No]. If 'Yes', create a downloadable file based on the output (e.g., C# class, PDF report, etc.) and provide a direct download link.
+```
+
+---
+
+**Step 2: Specify Parameters or Run**
+
+```plaintext
+Please specify additional parameters if needed, or type "run" to execute the prompt immediately with default settings.
+
+- If you type "run" without specifying parameters or the problem description:
+  - I will autonomously generate a random example problem and fill in all parameters based on what seems most appropriate.
+  
+- If you type "run" after specifying the problem description but without other parameters:
+  - I will autonomously fill in the remaining parameters based on the problem provided and execute the solution.
+
+- If something is unclear or you wish to override autonomous decisions, you can specify parameters manually, or type "continue" to proceed with the suggested actions.
+```
+
+---
+
+### **Instructions for Using the Updated Prompt Template**
+
+1. **Enter the Prompt Template**: You can fully specify the problem and parameters, leave parts of it blank, or simply type "run" to allow the AI to handle everything autonomously.
+
+2. **Choose How to Execute**:
+   - **Run with Defaults**: If you don't provide any details, typing "run" will trigger an autonomously generated problem with all parameters filled in automatically.
+   - **Run with Partial Input**: If you specify the problem but leave other parameters blank, I will fill in the gaps and proceed with the solution.
+   - **Specify and Run**: If you want to manually control certain aspects, specify those, and I will handle the rest.
+
+3. **Handle Uncertainty**:
+   - If a parameter is unclear or it makes sense to let the user decide, I will suggest an action or ask the user to type "continue" to proceed with an autonomous choice.
+
+### **Example of Usage**
+
+- **Example Problem Description**: "Generate a C# class that handles customer data and includes methods for adding, updating, and deleting records."
+  
+- **User Input**:
+
+```plaintext
+run
+```
+
+- **Result**:
+  - The AI will generate the C# class based on the problem description, create the .cs file, and provide a direct download link for the user.
+
+---
+
+### **Conclusion**
+
+This version of the prompt template provides maximum flexibility, allowing the user to input as little or as much as they want. The AI can then autonomously generate or fill in the missing information, ensuring that the process is as seamless and user-friendly as possible. This approach empowers users to control the depth and specificity of their input while still benefiting from the AI’s autonomous capabilities.
+========================
+Prompt 5: **Request Description:**  
+I'm exploring transformations between an input, a transformation operation, and an output. I'd like to understand if you, as an assistant, can help with different configurations involving input, output, and transformation, specifically in the context of reversible transformations. Here are the scenarios I'm interested in:
+
+**Problem Statement:**  
+The transformations are represented in the form:  
+`x -> y`  
+Where `x` is the input, `y` is the output, and `->` represents the transformation operation.
+
+I'd like to explore whether you can solve for the missing component when given the following information:
+
+1. **Determine the Transformation:**  
+   If both the input (`x`) and the output (`y`) are provided, can you figure out what transformation (`->`) was applied?  
+   Example shorthand: `x ? y`  
+
+2. **Determine the Output:**  
+   If the input (`x`) and transformation (`->`) are provided, can you determine the resulting output (`y`)?  
+   Example shorthand: `x -> ?`
+
+3. **Determine the Input:**  
+   If the transformation (`->`) and the output (`y`) are provided, can you deduce the original input (`x`)?  
+   Example shorthand: `? -> y`
+
+**Criteria:**  
+- The transformations must be well-defined and reversible or reversible in nature.
+- All necessary information should be clearly provided or derivable for each case.
+
+**Task for the Assistant:**  
+Please create three example cases that illustrate these scenarios and demonstrate whether a solution is possible. For each case, include:
+
+- **The given information** (input, transformation, output).
+- **The solution** for the missing component, showing the steps taken if the transformation can be reversed or reconstructed.
